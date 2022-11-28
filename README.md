@@ -15,6 +15,7 @@ torch-sparse == 0.6.12
 ```python
 \Carmen\data
 ```
+The processed data is in the path, you can also process data with:
 ### MIMIC-III
 ```python
 python processing.py
