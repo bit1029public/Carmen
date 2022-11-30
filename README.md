@@ -12,10 +12,11 @@ torch-sparse == 0.6.12
 ```
 
 ## Process Data
+The processed data is in the path
 ```python
 \Carmen\data
 ```
-The processed data is in the path, you can also process data with:
+You can also process data with
 ### MIMIC-III
 ```python
 python processing.py
@@ -24,7 +25,6 @@ python processing.py
 ```python
 python processing_4.py
 ```
-
 ## Train Model
 ```python
 \Carmen\src
